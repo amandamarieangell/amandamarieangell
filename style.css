@@ -142,6 +142,12 @@
         display: inline-block;
         width: 80%;
       }
+      main div h3 {
+       font-size: 20px;
+     }
+     main div h4 {
+       font-size: 18px;
+     }
       ul li {
         display: inline-block;
         margin: 2px;
@@ -178,6 +184,12 @@
       header div h2 {
         font-size: 16px;
       }
+      main div h3 {
+       font-size: 18px;
+     }
+     main div h4 {
+       font-size: 17px;
+     }
       ul li {
         display: block;
         margin: 2px;
@@ -218,6 +230,12 @@
       header div h2 {
         font-size: 16px;
       }
+       main div h3 {
+       font-size: 17px;
+     }
+     main div h4 {
+       font-size: 16px;
+     }
       ul li {
         display: block;
         margin: 8px 4px;
@@ -257,6 +275,12 @@
       header div h2 {
         font-size: 14px;
       }
+      main div h3 {
+       font-size: 15px;
+     }
+     main div h4 {
+       font-size: 14px;
+     }
       ul li {
         display: block;
         margin: 8px 4px;
