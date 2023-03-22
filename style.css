@@ -186,7 +186,6 @@
         display: block;
         width: 80%;
         margin-right: auto;
-        font-size: 24px;
         text-indent: 2em;
       }
       div.bio {
@@ -214,7 +213,6 @@
       }
       header div h2 {
         font-weight: 300;
-        font-size: 18px;
       }
       ul li {
         display: block;
@@ -224,7 +222,6 @@
         width: 72%;
         padding: 2px 0;
         display: block;
-        font-size: 24px;
         text-indent: 2em;
       }
       div.bio {
@@ -252,7 +249,6 @@
       }
       header div h2 {
         font-weight: 300;
-        font-size: 23px;
       }
       ul li {
         display: block;
@@ -262,7 +258,6 @@
         width: 72%;
         padding: 2px 0;
         display: block;
-        font-size: 22px;
         text-indent: 2em;
       }
       div.bio {
