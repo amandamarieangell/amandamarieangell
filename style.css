@@ -39,11 +39,11 @@
       font-weight: 300;
       text-decoration: none;
       outline: none;
-      color: #4f88af;
+      color: #FF69B4;
       transition: color 0.5s ease;
     }
     a:hover {
-      color: #62a9d9;
+      color: #222;
     }
     ul {
       display: block;
@@ -80,8 +80,8 @@
     main div.bio strong a {
       display: inline-block;
       padding: 4px;
-      background-color: #62a9d9;
-      border: solid 1px #62a9d9;
+      background-color: #FF69B4;
+      border: solid 1px #222;
       border-radius: 2px;
       box-shadow: 1px 1px 3px rgba(0,0,0,0.7);
       transition: border 0.5s ease;
@@ -90,8 +90,8 @@
       transition: color 0.5s ease, border 0.5s ease;
     }
     main div.bio strong a:hover {
-      border-color: #727272;
-      color: #525252;
+      border-color: #FF69B4;
+      background-color: #222;
     }
     main div h3 {
       display: block;
