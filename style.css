@@ -28,7 +28,6 @@
       display: block;
       text-shadow: 1px 1px 3px rgba(0,0,0,0.7);
       font-size: 32px;
-      font-weight: 300;
       color: #fff;
     }
     header div h2 {
@@ -93,7 +92,6 @@
       box-shadow: 1px 1px 3px rgba(0,0,0,0.7);
       font-family: 'Open Sans', sans-serif;
       font-size: 16px;
-      font-weight: 600;
       color: #fff;
       transition: color 0.5s ease, border 0.5s ease;
     }
@@ -109,7 +107,6 @@
       text-shadow: 1px 1px 3px rgba(0,0,0,0.7);
       font-family: 'Oooh Baby', cursive;
       font-size: 26px;
-      font-weight: 300;
       color: #fff;
     }
     main div h4 {
@@ -117,7 +114,6 @@
       text-shadow: 1px 1px 3px rgba(0,0,0,0.7);
       font-family: 'Oooh Baby', cursive;
       font-size: 24px;
-      font-weight: 300;
       color: #fff;
     }
     footer {
@@ -145,9 +141,6 @@
       header div {
         display: inline-block;
         width: 80%;
-      }
-      header div h2 {
-        font-weight: 200;
       }
       ul li {
         display: inline-block;
@@ -179,9 +172,11 @@
       header div {
         display: block;
       }
+      header div h1 {
+        font-size: 20px;
+      }
       header div h2 {
         font-size: 16px;
-        font-weight: 200;
       }
       ul li {
         display: block;
